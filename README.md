@@ -49,7 +49,8 @@ Open and run the notebooks in the notebooks/ directory to perform data explorati
 
 ## Data Sources
 
-…
+addresses-us-all.json
+https://github.com/EthanRBrown/rrad/blob/master/addresses-us-all.json
 
 ## Usage
 
