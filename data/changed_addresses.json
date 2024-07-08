@@ -1,0 +1,874 @@
+[
+    {
+        "long_address": "5461 West Shades Valley Drive",
+        "short_address": "5461 Wst Shades Vlley Drve"
+    },
+    {
+        "long_address": "3729 East Mission Boulevard",
+        "short_address": "3729 East Mission Bulevard"
+    },
+    {
+        "long_address": "802 Madison Street Northwest",
+        "short_address": "802 Madisn Stret Northwest"
+    },
+    {
+        "long_address": "2811 Battery Place Northwest",
+        "short_address": "2811 Bttery Plac Northwest"
+    },
+    {
+        "long_address": "1508 Massachusetts Avenue Southeast",
+        "short_address": "1508 Msschstts vn Sotheast"
+    },
+    {
+        "long_address": "5615 West Villa Maria Drive",
+        "short_address": "5615 West Vlla Maria Drive"
+    },
+    {
+        "long_address": "3162 Martin Luther King Junior Boulevard",
+        "short_address": "3162 Mrtn Lthr Kng Jnr Blvrd"
+    },
+    {
+        "long_address": "7 Underwood Place Northwest",
+        "short_address": "7 Undrwood Place Northwest"
+    },
+    {
+        "long_address": "1427 South Carolina Avenue Southeast",
+        "short_address": "1427 Soth Carlin vn Suthst"
+    },
+    {
+        "long_address": "1608 Gales Street Northeast",
+        "short_address": "1608 Gales Street Northest"
+    },
+    {
+        "long_address": "2622 Martin Luther King Junior Boulevard",
+        "short_address": "2622 Mrtn Lthr Kng Jnr Blvrd"
+    },
+    {
+        "long_address": "1901 North Midwest Boulevard",
+        "short_address": "1901 North Midwst Bolevard"
+    },
+    {
+        "long_address": "22 Gallatin Street Northeast",
+        "short_address": "22 Gallatin Stret Nrtheast"
+    },
+    {
+        "long_address": "4840 Reservoir Road Northwest",
+        "short_address": "4840 Reservor Rad Northwst"
+    },
+    {
+        "long_address": "4250 North Valley Lake Drive",
+        "short_address": "4250 Nrth Vally Lake Drive"
+    },
+    {
+        "long_address": "201 West Montgomery Cross Road",
+        "short_address": "201 Wst Montgomry Crss Rad"
+    },
+    {
+        "long_address": "3500 Blanchard Drive Southwest",
+        "short_address": "3500 Blnchrd Drive Sothwst"
+    },
+    {
+        "long_address": "7701 Southwest 104th Street",
+        "short_address": "7701 Southwest 104th Stret"
+    },
+    {
+        "long_address": "2787 West Blackstone Crossing",
+        "short_address": "2787 West Blckstone Crssng"
+    },
+    {
+        "long_address": "457 Mountain Village Boulevard",
+        "short_address": "457 Muntain Vllage Bulvard"
+    },
+    {
+        "long_address": "736 Sicard Street Southeast",
+        "short_address": "736 Sicard Street Southest"
+    },
+    {
+        "long_address": "2552 Massachusetts Avenue Northwest",
+        "short_address": "2552 Masschstts vn Nrthwst"
+    },
+    {
+        "long_address": "19091 Northeast 23rd Street",
+        "short_address": "19091 Northeast 23rd Stret"
+    },
+    {
+        "long_address": "416 South University Boulevard",
+        "short_address": "416 Soth Unvrsity Bolevard"
+    },
+    {
+        "long_address": "3194 Bladensburg Road Northeast",
+        "short_address": "3194 Bldensburg Rod Nrthst"
+    },
+    {
+        "long_address": "2765 North Barcelona Avenue",
+        "short_address": "2765 North Barclona Avenue"
+    },
+    {
+        "long_address": "22219 Panama City Beach Parkway",
+        "short_address": "22219 Pnm City Bach Prkway"
+    },
+    {
+        "long_address": "1309 Columbia Road Northwest",
+        "short_address": "1309 Columba Road Nrthwest"
+    },
+    {
+        "long_address": "21 Longview Bluff Drive East",
+        "short_address": "21 Longviw Bluff Drve East"
+    },
+    {
+        "long_address": "6450 West Bethany Home Road",
+        "short_address": "6450 West Bethny Home Road"
+    },
+    {
+        "long_address": "4709 Blagden Terrace Northwest",
+        "short_address": "4709 Blgdn Trrac Northwest"
+    },
+    {
+        "long_address": "2500 Snowdoun Chambers Road",
+        "short_address": "2500 Snowdun Chambers Road"
+    },
+    {
+        "long_address": "1328 Tuckerman Street Northwest",
+        "short_address": "1328 Tuckermn Strt Nrthwst"
+    },
+    {
+        "long_address": "12420 West Montebello Avenue",
+        "short_address": "12420 West Montbell Avenue"
+    },
+    {
+        "long_address": "1405 Monroe Street Northeast",
+        "short_address": "1405 Monroe Strt Northeast"
+    },
+    {
+        "long_address": "509 Franklin Street Northeast",
+        "short_address": "509 Franklin Stret Nrthest"
+    },
+    {
+        "long_address": "1644 New Jersey Avenue Northwest",
+        "short_address": "1644 Nw Jrsey vnu Nrthwest"
+    },
+    {
+        "long_address": "3298 Chestnut Street Northwest",
+        "short_address": "3298 Chestnt Strt Nrthwest"
+    },
+    {
+        "long_address": "73455 Twentynine Palms Highway",
+        "short_address": "73455 Twntynin Plms Highwy"
+    },
+    {
+        "long_address": "467 North Mountain Ranch Road",
+        "short_address": "467 Nrth Mountn Ranch Road"
+    },
+    {
+        "long_address": "904 Shepherd Street Northwest",
+        "short_address": "904 Shephrd Street Nrthwst"
+    },
+    {
+        "long_address": "4074 North Sunflower Circle",
+        "short_address": "4074 Nrth Sunflower Circle"
+    },
+    {
+        "long_address": "643 Farragut Street Northwest",
+        "short_address": "643 Frragut Stret Nrthwest"
+    },
+    {
+        "long_address": "5929 West Via Montoya Drive",
+        "short_address": "5929 West Va Montoya Drive"
+    },
+    {
+        "long_address": "2248 South Sutherland Drive",
+        "short_address": "2248 South Sutherlnd Drive"
+    },
+    {
+        "long_address": "1734 Tamarack Street Northwest",
+        "short_address": "1734 Tmarck Stret Northwst"
+    },
+    {
+        "long_address": "354 North University Avenue",
+        "short_address": "354 North University Avene"
+    },
+    {
+        "long_address": "6145 East Castro Valley Boulevard",
+        "short_address": "6145 st Castro Vlly Blevrd"
+    },
+    {
+        "long_address": "4221 East Mission Boulevard",
+        "short_address": "4221 East Mission Boulevrd"
+    },
+    {
+        "long_address": "2222 Martin Luther King Junior Boulevard",
+        "short_address": "2222 Mrtn Lthr Kng Jnr Blvrd"
+    },
+    {
+        "long_address": "1900 West Virginia Avenue Northeast",
+        "short_address": "1900 West Vrgn Avn Nrthast"
+    },
+    {
+        "long_address": "653 Stratton Arlington Road",
+        "short_address": "653 Strtton Arlington Road"
+    },
+    {
+        "long_address": "227 West Montgomery Cross Road",
+        "short_address": "227 West Montgmry Crss Rad"
+    },
+    {
+        "long_address": "4603 Grant Street Northeast",
+        "short_address": "4603 Grant Street Northest"
+    },
+    {
+        "long_address": "23 Florida Avenue Northeast",
+        "short_address": "23 Florida Avenue Nrtheast"
+    },
+    {
+        "long_address": "1700 William E Summers III Avenue",
+        "short_address": "1700 William  Smmrs I vene"
+    },
+    {
+        "long_address": "1537 Northwest 123rd Street",
+        "short_address": "1537 Northwst 123rd Street"
+    },
+    {
+        "long_address": "1559 Alabama Avenue Southeast",
+        "short_address": "1559 Albma Avenue Sotheast"
+    },
+    {
+        "long_address": "7308 Northwest 119th Street",
+        "short_address": "7308 Nrthwest 119th Street"
+    },
+    {
+        "long_address": "2577 Rhode Island Avenue Northeast",
+        "short_address": "2577 Rhod slnd Avne Nrthst"
+    },
+    {
+        "long_address": "3147 West Old Farmington Road",
+        "short_address": "3147 Wst ld Farmington Rod"
+    },
+    {
+        "long_address": "7034 West John Garrison Road",
+        "short_address": "7034 Wst John Grrison Road"
+    },
+    {
+        "long_address": "5104 West Tierra Buena Lane",
+        "short_address": "5104 West Tierra Buena Lne"
+    },
+    {
+        "long_address": "720 East Muhammad Ali Boulevard",
+        "short_address": "720 ast Mhammad Al Bulvard"
+    },
+    {
+        "long_address": "1656 Newton Street Northwest",
+        "short_address": "1656 Newtn Stret Northwest"
+    },
+    {
+        "long_address": "5244 West Port Au Prince Lane",
+        "short_address": "5244 West Prt  Prince Lane"
+    },
+    {
+        "long_address": "7024 Johnny Mercer Boulevard",
+        "short_address": "7024 Johnny Mercr Boulevrd"
+    },
+    {
+        "long_address": "503 Blackwood Terrace Southeast",
+        "short_address": "503 Blckwod Trrce Southast"
+    },
+    {
+        "long_address": "1516 Buchanan Street Northwest",
+        "short_address": "1516 Bchanan Stret Nrthwst"
+    },
+    {
+        "long_address": "16133 Hillsborough Boulevard",
+        "short_address": "16133 Hillsborogh Boulvard"
+    },
+    {
+        "long_address": "1317 Allison Street Northeast",
+        "short_address": "1317 Allison Stret Nrthast"
+    },
+    {
+        "long_address": "1879 South Cherry Hills Drive",
+        "short_address": "1879 Suth Chrry Hills Drve"
+    },
+    {
+        "long_address": "16412 Eastwood Cut Off Road",
+        "short_address": "16412 astwood Cut Off Road"
+    },
+    {
+        "long_address": "421 Madison Street Northeast",
+        "short_address": "421 Madson Street Northest"
+    },
+    {
+        "long_address": "7301 Northwest 113th Terrace",
+        "short_address": "7301 Nrthwest 113th Terrce"
+    },
+    {
+        "long_address": "4510 Eastern Avenue Northeast",
+        "short_address": "4510 Eastern Avne Nrtheast"
+    },
+    {
+        "long_address": "880 General George Patton Road",
+        "short_address": "880 Genrl Georg Patton Rad"
+    },
+    {
+        "long_address": "5609 Colorado Avenue Northwest",
+        "short_address": "5609 Clrado vnue Northwest"
+    },
+    {
+        "long_address": "2245 Southwest Binkley Street",
+        "short_address": "2245 Suthwest Binkly Stret"
+    },
+    {
+        "long_address": "901 North Lincoln Boulevard",
+        "short_address": "901 North Lincln Boulevard"
+    },
+    {
+        "long_address": "5606 Olde Wadsworth Boulevard",
+        "short_address": "5606 Old Wdsworth Boulvard"
+    },
+    {
+        "long_address": "9306 Norton Commons Boulevard",
+        "short_address": "9306 Nrtn Commons Boulevrd"
+    },
+    {
+        "long_address": "519 Roxboro Place Northwest",
+        "short_address": "519 Roxboro Plce Northwest"
+    },
+    {
+        "long_address": "29076 Little Big Horn Drive",
+        "short_address": "29076 Little Big Horn Driv"
+    },
+    {
+        "long_address": "601 Farragut Place Northeast",
+        "short_address": "601 Farragut Place Nrthast"
+    },
+    {
+        "long_address": "110 Central Junction Boulevard",
+        "short_address": "110 Central Junctn Bolvard"
+    },
+    {
+        "long_address": "4182 North Valley Lake Drive",
+        "short_address": "4182 North Vlley Lke Drive"
+    },
+    {
+        "long_address": "3553 Brandywine Street Northwest",
+        "short_address": "3553 Brndywn Stret Nrthwst"
+    },
+    {
+        "long_address": "6702 Johnny Mercer Boulevard",
+        "short_address": "6702 Johnny Mrcer Bolevard"
+    },
+    {
+        "long_address": "631 North Eastern Boulevard",
+        "short_address": "631 North Eastrn Boulevard"
+    },
+    {
+        "long_address": "205 North Henderson Bend Road Northwest",
+        "short_address": "205 Nrth Hndrsn Bnd Rd Nrthwst"
+    },
+    {
+        "long_address": "238 Brookley Avenue Southwest",
+        "short_address": "238 Brookley venue Sthwest"
+    },
+    {
+        "long_address": "4401 Burlington Place Northwest",
+        "short_address": "4401 Brlngtn Plce Nrthwest"
+    },
+    {
+        "long_address": "1309 Southwest 71st Terrace",
+        "short_address": "1309 Suthwest 71st Terrace"
+    },
+    {
+        "long_address": "103 Martin Luther King Junior Boulevard",
+        "short_address": "103 Mrtn Lthr Kng Jnr Blvrd"
+    },
+    {
+        "long_address": "1126 Oates Street Northeast",
+        "short_address": "1126 Oates Street Northest"
+    },
+    {
+        "long_address": "401 East Northern Lights Boulevard",
+        "short_address": "401 ast Nrthrn Lghts Blvrd"
+    },
+    {
+        "long_address": "1303 Kearny Street Northeast",
+        "short_address": "1303 Kearny Stret Nrtheast"
+    },
+    {
+        "long_address": "1310 Riggs Street Northwest",
+        "short_address": "1310 Riggs Street Nrthwest"
+    },
+    {
+        "long_address": "4000 Albemarle Street Northwest",
+        "short_address": "4000 lbmrl Street Nrthwest"
+    },
+    {
+        "long_address": "3365 South Cato Springs Road",
+        "short_address": "3365 South Ct Springs Road"
+    },
+    {
+        "long_address": "1011 Irving Street Northeast",
+        "short_address": "1011 rvng Street Northeast"
+    },
+    {
+        "long_address": "5708 West Union Hills Drive",
+        "short_address": "5708 West Union Hills Driv"
+    },
+    {
+        "long_address": "9716 South Silver Lake Road",
+        "short_address": "9716 South Silver Lak Road"
+    },
+    {
+        "long_address": "321 Kentucky Avenue Southeast",
+        "short_address": "321 Kentucky Avenu Sothest"
+    },
+    {
+        "long_address": "4341 Ponds Street Northeast",
+        "short_address": "4341 Ponds Stret Northeast"
+    },
+    {
+        "long_address": "702 Farragut Street Northwest",
+        "short_address": "702 Frragut Stret Northwst"
+    },
+    {
+        "long_address": "1333 Farragut Street Northwest",
+        "short_address": "1333 Farrgt Stret Northwst"
+    },
+    {
+        "long_address": "1920 Bladensburg Road Northeast",
+        "short_address": "1920 Bladnsburg Rd Nrthest"
+    },
+    {
+        "long_address": "406 North Hammonds Ferry Road",
+        "short_address": "406 Nrth Hammonds Frry Rod"
+    },
+    {
+        "long_address": "1256 Talbert Street Southeast",
+        "short_address": "1256 Tlbert Street Suthast"
+    },
+    {
+        "long_address": "7310 East Chester Heights Circle",
+        "short_address": "7310 Est Chstr Hghts Circl"
+    },
+    {
+        "long_address": "13116 West Palo Verde Drive",
+        "short_address": "13116 West Plo Verde Drive"
+    },
+    {
+        "long_address": "1666 South Summer Rose Avenue",
+        "short_address": "1666 South Summer Rose Avn"
+    },
+    {
+        "long_address": "233 Ingraham Street Northwest",
+        "short_address": "233 Ingraham Stret Nrthwst"
+    },
+    {
+        "long_address": "10700 South Pennsylvania Avenue",
+        "short_address": "10700 South Pnnsylvan vene"
+    },
+    {
+        "long_address": "2201 Ontario Road Northwest",
+        "short_address": "2201 Ontario Road Nrthwest"
+    },
+    {
+        "long_address": "1205 Southwest 128th Street",
+        "short_address": "1205 Southwest 128th Stret"
+    },
+    {
+        "long_address": "3138 Banneker Drive Northeast",
+        "short_address": "3138 Banneker Drv Northest"
+    },
+    {
+        "long_address": "7321 East Chester Heights Circle",
+        "short_address": "7321 ast Chstr Heghts Crcl"
+    },
+    {
+        "long_address": "664 Irving Street Northwest",
+        "short_address": "664 Irvng Street Northwest"
+    },
+    {
+        "long_address": "3116 Northwest 61st Terrace",
+        "short_address": "3116 Northwest 61st Trrace"
+    },
+    {
+        "long_address": "3551 North Georgetown Drive",
+        "short_address": "3551 North Georgetown Driv"
+    },
+    {
+        "long_address": "2927 Martin Luther King Junior Avenue Southeast",
+        "short_address": "2927 Mrtn Lthr Kng Jnr vn Sthst"
+    },
+    {
+        "long_address": "1838 North Scull Creek Drive",
+        "short_address": "1838 North Scull Crek Driv"
+    },
+    {
+        "long_address": "4052 Brandywine Pointe Boulevard",
+        "short_address": "4052 Brndywin Pont Bolevrd"
+    },
+    {
+        "long_address": "1263 Evarts Street Northeast",
+        "short_address": "1263 varts Stret Northeast"
+    },
+    {
+        "long_address": "1734 Corcoran Street Northwest",
+        "short_address": "1734 Corcrn Street Nrthwst"
+    },
+    {
+        "long_address": "1729 Frankford Street Southeast",
+        "short_address": "1729 Frankford Strt Sthest"
+    },
+    {
+        "long_address": "8157 East Beach Drive Northwest",
+        "short_address": "8157 st Bech Drve Northwst"
+    },
+    {
+        "long_address": "1761 Thousand Oaks Boulevard",
+        "short_address": "1761 Thousnd Oks Boulevard"
+    },
+    {
+        "long_address": "1421 Floral Street Northwest",
+        "short_address": "1421 Florl Street Northwst"
+    },
+    {
+        "long_address": "4339 Benning Road Northeast",
+        "short_address": "4339 Bennng Road Northeast"
+    },
+    {
+        "long_address": "324 Martin Luther King Junior Boulevard",
+        "short_address": "324 Mrtn Lthr Kng Jnr Blvrd"
+    },
+    {
+        "long_address": "1521 North Olympic Club Avenue",
+        "short_address": "1521 North lympic Club vne"
+    },
+    {
+        "long_address": "712 Parkside Place Northeast",
+        "short_address": "712 Parksid Place Northast"
+    },
+    {
+        "long_address": "1330 North Mission Boulevard",
+        "short_address": "1330 Nrth Misson Boulevard"
+    },
+    {
+        "long_address": "120 North Hurstbourne Parkway",
+        "short_address": "120 Nrth Hurstborn Parkway"
+    },
+    {
+        "long_address": "7401 West Arrowhead Clubhouse Drive",
+        "short_address": "7401 Wst rrwhd Clubhs Driv"
+    },
+    {
+        "long_address": "2850 Davenport Street Northwest",
+        "short_address": "2850 Dvnprt Stret Northwst"
+    },
+    {
+        "long_address": "4130 Legation Street Northwest",
+        "short_address": "4130 Legtin Street Nrthwst"
+    },
+    {
+        "long_address": "1641 Kramer Street Northeast",
+        "short_address": "1641 Kramer Stret Northast"
+    },
+    {
+        "long_address": "4201 Georgia Avenue Northwest",
+        "short_address": "4201 Georg venue Northwest"
+    },
+    {
+        "long_address": "6604 Northwest 130th Street",
+        "short_address": "6604 Northwest 130th Stret"
+    },
+    {
+        "long_address": "3825 West Muhammad Ali Boulevard",
+        "short_address": "3825 Wst Muhmmad l Bolevrd"
+    },
+    {
+        "long_address": "5575 South Dakota Avenue Northeast",
+        "short_address": "5575 Sth Dkota vne Nrthast"
+    },
+    {
+        "long_address": "1124 Frederick Douglass Avenue",
+        "short_address": "1124 Frederick Duglass ven"
+    },
+    {
+        "long_address": "7808 Baltimore Annapolis Boulevard",
+        "short_address": "7808 Bltimore nnpls Bolvrd"
+    },
+    {
+        "long_address": "1265 Southeast 23rd Terrace",
+        "short_address": "1265 Sotheast 23rd Terrace"
+    },
+    {
+        "long_address": "627 Emerson Street Northwest",
+        "short_address": "627 Emerson Stret Nrthwest"
+    },
+    {
+        "long_address": "1710 Massachusetts Avenue Southeast",
+        "short_address": "1710 Msschsetts Avn Suthst"
+    },
+    {
+        "long_address": "7400 West Arrowhead Clubhouse Drive",
+        "short_address": "7400 Wst rrwhd Clbhse Driv"
+    },
+    {
+        "long_address": "545 East Muhammad Ali Boulevard",
+        "short_address": "545 st Muhmmad Al Boulvard"
+    },
+    {
+        "long_address": "3538 Albemarle Street Northwest",
+        "short_address": "3538 lbmrle Stret Northwst"
+    },
+    {
+        "long_address": "3065 East Pebblestone Drive",
+        "short_address": "3065 East Pebbleston Drive"
+    },
+    {
+        "long_address": "5170 Hickory Hollow Parkway",
+        "short_address": "5170 Hickory Hollow Prkway"
+    },
+    {
+        "long_address": "3373 Runnymede Place Northwest",
+        "short_address": "3373 Runnymd Plce Nrthwest"
+    },
+    {
+        "long_address": "328 South Ranchwood Manor Drive",
+        "short_address": "328 Soth Ranchwd Mnor Drve"
+    },
+    {
+        "long_address": "261 East Old Hickory Boulevard",
+        "short_address": "261 Est Old Hckry Bolevard"
+    },
+    {
+        "long_address": "1402 North Capitol Street Northwest",
+        "short_address": "1402 Nrth Cptl Strt Nrthwst"
+    },
+    {
+        "long_address": "18 Hamilton Street Northwest",
+        "short_address": "18 Hamlton Stret Northwest"
+    },
+    {
+        "long_address": "836 Lamont Street Northwest",
+        "short_address": "836 Lamont Stret Northwest"
+    },
+    {
+        "long_address": "3708 Fort Lincoln Drive Northeast",
+        "short_address": "3708 Frt Lncoln Drv Nrthst"
+    },
+    {
+        "long_address": "5156 South Dakota Avenue Northeast",
+        "short_address": "5156 Sth Dkta Avne Nrthest"
+    },
+    {
+        "long_address": "205 West Montgomery Cross Road",
+        "short_address": "205 West Montgomry Crss Rd"
+    },
+    {
+        "long_address": "1908 Newton Street Northeast",
+        "short_address": "1908 Newton Street Nrthast"
+    },
+    {
+        "long_address": "3504 Mount View Ridge Drive",
+        "short_address": "3504 Mont View Ridge Drive"
+    },
+    {
+        "long_address": "2316 Northwest 113th Street",
+        "short_address": "2316 Northwst 113th Street"
+    },
+    {
+        "long_address": "780 South Wilmington Avenue",
+        "short_address": "780 Suth Wilmington Avenue"
+    },
+    {
+        "long_address": "1627 Connecticut Avenue Northwest",
+        "short_address": "1627 Cnnctcut ven Northwst"
+    },
+    {
+        "long_address": "2109 Puddingtons Patent Way",
+        "short_address": "2109 Puddingtons Patnt Way"
+    },
+    {
+        "long_address": "7700 Morningside Drive Northwest",
+        "short_address": "7700 Mrningsde Drv Nrthwst"
+    },
+    {
+        "long_address": "1247 West Mount Comfort Road",
+        "short_address": "1247 West Mount Comfrt Rad"
+    },
+    {
+        "long_address": "4300 Kansas Avenue Northwest",
+        "short_address": "4300 Kanss venue Northwest"
+    },
+    {
+        "long_address": "4822 Piney Branch Road Northwest",
+        "short_address": "4822 Pney Brnch Rd Nrthwst"
+    },
+    {
+        "long_address": "6221 West Wethersfield Road",
+        "short_address": "6221 West Wethersfild Road"
+    },
+    {
+        "long_address": "467 Biscayne Avenue Northwest",
+        "short_address": "467 Bscayne Avenu Northwst"
+    },
+    {
+        "long_address": "12546 West Montebello Avenue",
+        "short_address": "12546 Wst Montebello Avnue"
+    },
+    {
+        "long_address": "4405 West Solano Drive South",
+        "short_address": "4405 West Slno Drive South"
+    },
+    {
+        "long_address": "1333 Kenyon Street Northwest",
+        "short_address": "1333 Knyon Stret Northwest"
+    },
+    {
+        "long_address": "1380 Quincy Street Northwest",
+        "short_address": "1380 Qincy Street Northwst"
+    },
+    {
+        "long_address": "4430 Davenport Street Northwest",
+        "short_address": "4430 Dvenprt Stret Nrthwst"
+    },
+    {
+        "long_address": "6604 West Montebello Avenue",
+        "short_address": "6604 West Montebllo Avenue"
+    },
+    {
+        "long_address": "5529 East Saddleridge Drive",
+        "short_address": "5529 East Saddlridge Drive"
+    },
+    {
+        "long_address": "6932 West Montebello Avenue",
+        "short_address": "6932 West Montebello venue"
+    },
+    {
+        "long_address": "4667 Benning Road Southeast",
+        "short_address": "4667 Benning Rad Southeast"
+    },
+    {
+        "long_address": "534 Hamilton Street Northeast",
+        "short_address": "534 Hmlton Stret Northeast"
+    },
+    {
+        "long_address": "720 South River Landing Road",
+        "short_address": "720 South Rver Landing Rad"
+    },
+    {
+        "long_address": "6741 West Robert E Lee Street",
+        "short_address": "6741 West Robrt E Le Stret"
+    },
+    {
+        "long_address": "3384 North Southridge Drive",
+        "short_address": "3384 North Suthridge Drive"
+    },
+    {
+        "long_address": "106 Varnum Street Northwest",
+        "short_address": "106 Varnum Street Northwst"
+    },
+    {
+        "long_address": "8007 Kendrick Crossing Lane",
+        "short_address": "8007 Kendrick Crossng Lane"
+    },
+    {
+        "long_address": "1636 Church Street Northwest",
+        "short_address": "1636 Church Street Nrthwst"
+    },
+    {
+        "long_address": "505 North Washington Avenue",
+        "short_address": "505 Nrth Washington Avenue"
+    },
+    {
+        "long_address": "1400 Rosa L Parks Boulevard",
+        "short_address": "1400 Rosa L Parks Bolevard"
+    },
+    {
+        "long_address": "623 Rhode Island Avenue Northwest",
+        "short_address": "623 Rhd Island ven Nrthwst"
+    },
+    {
+        "long_address": "328 Missouri Avenue Northwest",
+        "short_address": "328 Missour Aven Northwest"
+    },
+    {
+        "long_address": "6740 West Montebello Avenue",
+        "short_address": "6740 West Montebello venue"
+    },
+    {
+        "long_address": "1710 Monroe Street Northeast",
+        "short_address": "1710 Mnroe Street Northest"
+    },
+    {
+        "long_address": "4079 North Sunflower Circle",
+        "short_address": "4079 North Sunflower Crcle"
+    },
+    {
+        "long_address": "320 South Ramblin Oaks Drive",
+        "short_address": "320 South Rmblin Oaks Driv"
+    },
+    {
+        "long_address": "1008 Rhode Island Avenue Northwest",
+        "short_address": "1008 Rhd slnd vnue Nrthwst"
+    },
+    {
+        "long_address": "1544 Kenilworth Avenue Northeast",
+        "short_address": "1544 Knilwrth vnue Nrthest"
+    },
+    {
+        "long_address": "2944 Sheldon Jackson Street",
+        "short_address": "2944 Sheldon Jackson Stret"
+    },
+    {
+        "long_address": "6435 West Hillsborough Avenue",
+        "short_address": "6435 West Hllsborough Avne"
+    },
+    {
+        "long_address": "2327 Pomeroy Road Southeast",
+        "short_address": "2327 Pomeroy Rod Southeast"
+    },
+    {
+        "long_address": "421 1/2 6th Street Southeast",
+        "short_address": "421 1/2 6th Stret Southest"
+    },
+    {
+        "long_address": "1001 Northwest 104th Street",
+        "short_address": "1001 Nrthwest 104th Street"
+    },
+    {
+        "long_address": "22618 South Figueroa Street",
+        "short_address": "22618 South Figueroa Stret"
+    },
+    {
+        "long_address": "705 Upshur Street Northwest",
+        "short_address": "705 Upshr Street Northwest"
+    },
+    {
+        "long_address": "5208 Colorado Avenue Northwest",
+        "short_address": "5208 Colorado Avnu Nrthwst"
+    },
+    {
+        "long_address": "357 Chaplin Street Southeast",
+        "short_address": "357 Chaplin Street Suthest"
+    },
+    {
+        "long_address": "5707 Whispering Hills Boulevard",
+        "short_address": "5707 Whspering Hills Blvrd"
+    },
+    {
+        "long_address": "140 William Chambers Junior Drive",
+        "short_address": "140 Wlliam Chmbrs Jnr Drve"
+    },
+    {
+        "long_address": "2812 Jasper Street Southeast",
+        "short_address": "2812 Jaspr Street Southast"
+    },
+    {
+        "long_address": "6407 West Monte Cristo Avenue",
+        "short_address": "6407 West Monte Cristo vne"
+    },
+    {
+        "long_address": "7810 Spring Farm Pointe Place",
+        "short_address": "7810 Spring Frm Ponte Plac"
+    },
+    {
+        "long_address": "13415 Panama City Beach Parkway",
+        "short_address": "13415 Panam Cty Bech Prkwy"
+    }
+]
