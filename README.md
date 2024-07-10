@@ -14,7 +14,9 @@ This project focuses on detecting similar addresses that have different spelling
 
 ## Running on Google Colab
 
-colab link
+You can run this notebook in Google Colab by clicking the link below:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleereza/address-similarity-analysis/blob/master/notebooks/address-similarity-analysis.ipynb)
 
 ## Getting Started
 
